@@ -1,0 +1,16 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.top-banar{
+    background-image:url( donation13.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.h1{font-size: 50px;}
+.a{background-color: blue;
+color: red;
+padding: 5px;}
