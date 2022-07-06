@@ -4,20 +4,20 @@ body{
 .top-banar{
     background-image:url( donation13.jpg);
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-size: 100%;
     color: white;
     text-align: center;
     padding: 20px;
+  
 }
-.h1{font-size: 50px;}
 .a{background-color: rgb(36, 36, 158);
-color: red;
-padding: 5px;
-border-radius: 10px;
-font-size: 15px;
+    color: red;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 15px;}
+.h1{font-size: 50px;}
 
-}
  .second-section{
     text-align: center;
  }
@@ -52,4 +52,45 @@ font-weight: 600;
 }
 .third-section{
     text-align: center;
+}
+.medle-bottom{
+    text-align: center;
+}
+.box{display: flex;
+justify-content: center;
+background-color: #f8eeba;
+margin-right: 15%;
+margin-left: 15%;
+margin-top: 70px;
+padding: 40px;
+margin-bottom: 80px;
+}
+.email{
+font-size: 17px;
+border: none;
+color: black;
+padding: 5px;
+}
+.button{
+font-size: 17px;
+color: black;
+background-color: tomato;
+padding: 5px;
+border: none;
+border-radius: 10px;
+margin-left: 0;
+padding-left: 40px;
+padding-right: 40px;
+}
+footer{
+    background-color: black;
+    padding: 50px;
+}
+#footer-h2{
+text-align: center;
+color: tomato;
+}
+#ending{
+text-align: center;
+color: gold;
 }
