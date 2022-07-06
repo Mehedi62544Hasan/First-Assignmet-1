@@ -18,23 +18,38 @@ border-radius: 10px;
 font-size: 15px;
 
 }
-.tk2{border: 1px solid ;
-margin: 2px;} 
-.tk3{border: 1px solid ;
-margin: 2px;}
-.tk4{border:  1px solid ;
-    margin: 2px;}
-.tk5{border:  1px solid ;
-    margin: 2px;}
-.tk6{border:  1px solid ;
-    margin: 2px;}
-.tk1{
-
+ .second-section{
+    text-align: center;
+ }
+ .pack{
+display: flex;
+background-color: white;
+margin-left: 10%;
+margin-right: 10%;
 text-align: center;
-display:flex
-
-
+justify-content: center;
+ }
+ .payment{
+background-color: white;
+width: 100px;
+line-height: 75px;
+margin: 10px;
+text-align: center;
+font-weight: 600;
+ }
+ #payment{
+border: 3px solid tomato;
+background-color: bisque;
+color: tomato;
+width: 100px;
+line-height: 75px;
+margin: 10px;
+text-align: center;
+font-weight: 600;
+ }
+.a1{
+    text-align: center;
 }
-.m2{
+.third-section{
     text-align: center;
 }
