@@ -11,6 +11,30 @@ body{
     padding: 20px;
 }
 .h1{font-size: 50px;}
-.a{background-color: blue;
+.a{background-color: rgb(36, 36, 158);
 color: red;
-padding: 5px;}
+padding: 5px;
+border-radius: 10px;
+font-size: 15px;
+
+}
+.tk2{border: 1px solid ;
+margin: 2px;} 
+.tk3{border: 1px solid ;
+margin: 2px;}
+.tk4{border:  1px solid ;
+    margin: 2px;}
+.tk5{border:  1px solid ;
+    margin: 2px;}
+.tk6{border:  1px solid ;
+    margin: 2px;}
+.tk1{
+
+text-align: center;
+display:flex
+
+
+}
+.m2{
+    text-align: center;
+}
