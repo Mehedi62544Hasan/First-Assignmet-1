@@ -94,3 +94,46 @@ color: tomato;
 text-align: center;
 color: gold;
 }
+.plan-1{
+    font-size: 20px;
+    padding-top: 20px;
+}
+.plan-2{
+    font-size: 20px;
+    padding-top: 20px;
+
+}
+.plan-3{
+    font-size: 20px;
+    padding-top: 20px;
+
+}
+.container2{
+background-color: #f7f1e3;
+display: flex;
+justify-content: center;
+}
+.flex1{
+background-color: rgb(46, 176, 176);
+margin-right: 10px;
+margin-left: 10px;
+padding: 20px;
+text-align: justify;
+border-radius: 20px;
+}
+.flex2{
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 20px;
+    text-align: justify;
+    border-radius: 20px;
+background-color: bisque;
+}
+.flex3{
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 20px;
+    text-align: justify;
+    border-radius: 20px;
+background-color: darkgoldenrod;
+}
